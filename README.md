@@ -24,7 +24,7 @@ to:
 resized_pil = pilim.resize(newsize[::-1], Image.LANCZOS)
 ``` 
 
-and it will work just fine. `ANTIALIAS is depricated and moviepy has not changed their code yet.
+and it will work just fine. `ANTIALIAS is deprecated and moviepy has not changed their code yet.
 
 # To Build Executable:
 
